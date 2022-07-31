@@ -1,3 +1,3 @@
 <?php
-echo("hallo world");
+echo($_GET["CITY"]);
 ?>
